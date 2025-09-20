@@ -20,4 +20,4 @@
 - Validation Accuracy: %XX
 - En çok karışan sınıflar: ...
 
-**Kaggle Notebook**: (Kaggle notebook linkinizi buraya yapıştırın)
+**Kaggle Notebook**:(https://www.kaggle.com/code/selinkplnkrn/yaprak)
